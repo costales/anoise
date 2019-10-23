@@ -1,0 +1,114 @@
+# Dutch translation for anoise
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the anoise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: anoise\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-06-12 22:29+0200\n"
+"PO-Revision-Date: 2015-12-03 17:10+0000\n"
+"Last-Translator: Hannie Dumoleyn <Unknown>\n"
+"Language-Team: Dutch <nl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-06-14 06:23+0000\n"
+"X-Generator: Launchpad (build 18404)\n"
+
+#: ../anoise/anoise.py:71
+msgid "Coffee Shop"
+msgstr "Koffiebar"
+
+#: ../anoise/anoise.py:71
+msgid "Fire"
+msgstr "Kampvuur"
+
+#: ../anoise/anoise.py:71
+msgid "Forest"
+msgstr "Bos"
+
+#: ../anoise/anoise.py:71
+msgid "Night"
+msgstr "Nacht"
+
+#: ../anoise/anoise.py:71
+msgid "Rain"
+msgstr "Regen"
+
+#: ../anoise/anoise.py:71
+msgid "River"
+msgstr "Rivier"
+
+#: ../anoise/anoise.py:71
+msgid "Sea"
+msgstr "Zee"
+
+#: ../anoise/anoise.py:71
+msgid "Storm"
+msgstr "Storm"
+
+#: ../anoise/anoise.py:71
+msgid "Wind"
+msgstr "Wind"
+
+#: ../anoise.desktop.in.h:1
+msgid "Ambient Noise"
+msgstr "Ambient Noise"
+
+#: ../anoise.desktop.in.h:2
+msgid "Play ambient noises"
+msgstr "Omgevingsgeluiden afspelen"
+
+#: ../anoise/preferences.ui.h:1
+msgid "ANoise Preferences"
+msgstr "Ambient Noise instellingen"
+
+#: ../anoise/preferences.ui.h:2
+msgid "Stop in"
+msgstr "Stop over"
+
+#: ../anoise/preferences.ui.h:3
+msgid "minutes"
+msgstr "minuten"
+
+#: ../anoise/preferences.ui.h:4
+msgid ""
+"Automatically shutdown PC after 60' running this command:\n"
+"sudo shutdown -P 60"
+msgstr ""
+"De computer automatisch uitschakelen na 60 minuten.\n"
+"De volgende opdrachtregel wordt gebruikt:\n"
+"sudo shutdown -P 60"
+
+#: ../anoise/preferences.ui.h:6
+msgid "Timer:"
+msgstr "Timer:"
+
+#: ../anoise/preferences.ui.h:7
+msgid "Autostart with the system"
+msgstr "Programma automatisch starten na aanmelden"
+
+#: ../anoise/preferences.ui.h:8
+msgid "Startup:"
+msgstr "Opstarten:"
+
+#: ../anoise/preferences.ui.h:9
+msgid "Get more online..."
+msgstr "Online meer verkrijgen…"
+
+#: ../anoise/preferences.ui.h:10
+msgid "Noises:"
+msgstr "Geluiden:"
+
+#: ../anoise/preferences.ui.h:11
+msgid "Donate?"
+msgstr "Doneren"
+
+#: ../anoise/preferences.ui.h:12
+msgid "Thanks in advance!"
+msgstr "Alvast bedankt!"
+
+#~ msgid "Ambient Noise Player"
+#~ msgstr "Ambient Noise speler"

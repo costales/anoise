@@ -1,0 +1,113 @@
+# Lithuanian translation for anoise
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the anoise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: anoise\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-06-12 22:29+0200\n"
+"PO-Revision-Date: 2016-03-19 20:29+0000\n"
+"Last-Translator: Moo <hazap@hotmail.com>\n"
+"Language-Team: Lithuanian <lt@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-06-14 06:23+0000\n"
+"X-Generator: Launchpad (build 18404)\n"
+
+#: ../anoise/anoise.py:71
+msgid "Coffee Shop"
+msgstr "Kavos parduotuvė"
+
+#: ../anoise/anoise.py:71
+msgid "Fire"
+msgstr "Ugnis"
+
+#: ../anoise/anoise.py:71
+msgid "Forest"
+msgstr "Miškas"
+
+#: ../anoise/anoise.py:71
+msgid "Night"
+msgstr "Naktis"
+
+#: ../anoise/anoise.py:71
+msgid "Rain"
+msgstr "Lietus"
+
+#: ../anoise/anoise.py:71
+msgid "River"
+msgstr "Upė"
+
+#: ../anoise/anoise.py:71
+msgid "Sea"
+msgstr "Jūra"
+
+#: ../anoise/anoise.py:71
+msgid "Storm"
+msgstr "Audra"
+
+#: ../anoise/anoise.py:71
+msgid "Wind"
+msgstr "Vėjas"
+
+#: ../anoise.desktop.in.h:1
+msgid "Ambient Noise"
+msgstr "Supantis garsas"
+
+#: ../anoise.desktop.in.h:2
+msgid "Play ambient noises"
+msgstr "Groti supančius garsus"
+
+#: ../anoise/preferences.ui.h:1
+msgid "ANoise Preferences"
+msgstr "Anoise nuostatos"
+
+#: ../anoise/preferences.ui.h:2
+msgid "Stop in"
+msgstr "Stabdyti po"
+
+#: ../anoise/preferences.ui.h:3
+msgid "minutes"
+msgstr "minučių"
+
+#: ../anoise/preferences.ui.h:4
+msgid ""
+"Automatically shutdown PC after 60' running this command:\n"
+"sudo shutdown -P 60"
+msgstr ""
+"Automatiškai išjungti kompiuterį po 60', vykdant šią komanda:\n"
+"sudo shutdown -P 60"
+
+#: ../anoise/preferences.ui.h:6
+msgid "Timer:"
+msgstr "Laikmatis:"
+
+#: ../anoise/preferences.ui.h:7
+msgid "Autostart with the system"
+msgstr "Automatiškai paleisti kartu su sistema"
+
+#: ../anoise/preferences.ui.h:8
+msgid "Startup:"
+msgstr "Paleidimas:"
+
+#: ../anoise/preferences.ui.h:9
+msgid "Get more online..."
+msgstr "Gauti daugiau internete..."
+
+#: ../anoise/preferences.ui.h:10
+msgid "Noises:"
+msgstr "Garsai:"
+
+#: ../anoise/preferences.ui.h:11
+msgid "Donate?"
+msgstr "Aukoti?"
+
+#: ../anoise/preferences.ui.h:12
+msgid "Thanks in advance!"
+msgstr "Iš anksto dėkojame!"
+
+#~ msgid "Ambient Noise Player"
+#~ msgstr "Supančio garso grotuvas"

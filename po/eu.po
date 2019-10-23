@@ -1,0 +1,108 @@
+# Basque translation for anoise
+# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
+# This file is distributed under the same license as the anoise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: anoise\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-06-12 22:29+0200\n"
+"PO-Revision-Date: 2016-01-22 21:15+0000\n"
+"Last-Translator: Félix Brezo <felixbrezo@gmail.com>\n"
+"Language-Team: Basque <eu@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-06-14 06:23+0000\n"
+"X-Generator: Launchpad (build 18404)\n"
+
+#: ../anoise/anoise.py:71
+msgid "Coffee Shop"
+msgstr "Kafetegia"
+
+#: ../anoise/anoise.py:71
+msgid "Fire"
+msgstr "Sua"
+
+#: ../anoise/anoise.py:71
+msgid "Forest"
+msgstr "Basoa"
+
+#: ../anoise/anoise.py:71
+msgid "Night"
+msgstr "Gaua"
+
+#: ../anoise/anoise.py:71
+msgid "Rain"
+msgstr "Euria"
+
+#: ../anoise/anoise.py:71
+msgid "River"
+msgstr "Ibaia"
+
+#: ../anoise/anoise.py:71
+msgid "Sea"
+msgstr "Itsasoa"
+
+#: ../anoise/anoise.py:71
+msgid "Storm"
+msgstr "Ekaitza"
+
+#: ../anoise/anoise.py:71
+msgid "Wind"
+msgstr "Haizea"
+
+#: ../anoise.desktop.in.h:1
+msgid "Ambient Noise"
+msgstr "Ingurumenaren zarata"
+
+#: ../anoise.desktop.in.h:2
+msgid "Play ambient noises"
+msgstr ""
+
+#: ../anoise/preferences.ui.h:1
+msgid "ANoise Preferences"
+msgstr ""
+
+#: ../anoise/preferences.ui.h:2
+msgid "Stop in"
+msgstr ""
+
+#: ../anoise/preferences.ui.h:3
+msgid "minutes"
+msgstr "minutu"
+
+#: ../anoise/preferences.ui.h:4
+msgid ""
+"Automatically shutdown PC after 60' running this command:\n"
+"sudo shutdown -P 60"
+msgstr ""
+
+#: ../anoise/preferences.ui.h:6
+msgid "Timer:"
+msgstr ""
+
+#: ../anoise/preferences.ui.h:7
+msgid "Autostart with the system"
+msgstr ""
+
+#: ../anoise/preferences.ui.h:8
+msgid "Startup:"
+msgstr ""
+
+#: ../anoise/preferences.ui.h:9
+msgid "Get more online..."
+msgstr ""
+
+#: ../anoise/preferences.ui.h:10
+msgid "Noises:"
+msgstr "Zaratak:"
+
+#: ../anoise/preferences.ui.h:11
+msgid "Donate?"
+msgstr ""
+
+#: ../anoise/preferences.ui.h:12
+msgid "Thanks in advance!"
+msgstr ""

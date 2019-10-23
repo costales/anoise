@@ -1,0 +1,84 @@
+ANoise © 2015-2019 ﻿﻿Marcos Alvarez Costales
+=====================================
+
+WHAT IS IT?
+===========
+An ambient noise player
+
+
+HOW DO I INSTALL & RUN IT?
+==========================
+From a PPA:
+    # add-apt-repository ppa:costales/anoise
+    # apt-get update && sudo apt-get install anoise
+From the code (take a look to the dependencies):
+    $ bzr branch lp:anoise && cd anoise && sudo python setup.py install --prefix=/usr
+
+
+
+DEPENDENCIES
+============
+python-gst0.10
+gir1.2-gstreamer-0.10
+gir1.2-gtk-4.0
+
+
+
+WHAT IS NEW?
+============
+  * More easier to install community noises
+  * Updated languages
+
+
+
+
+LICENSES
+====================
+ANoise code is licensed under GPL v3.
+http://www.gnu.org/licenses
+
+The sound_menu.py library is licensed under GPL v3
+
+
+The sounds are from the freesound.org web page, remastered by Juan Carlos (http://pragmart.wordpress.com)for ANoise project
+Up to 320kb, resize length, better loop & less package size.
+
+The sound were improved by Gordon VS http://gnome-look.org/usermanager/search.php?username=Prodigal
+Fixed #1443139 Sea track has loud voices, Removed scream into Coffee shop & Better loops for Storm & Rain
+
+
+App icon: CC BY 3.0 https://www.iconfinder.com/icons/352074/circle_outline_play_icon
+                    https://www.iconfinder.com/icons/352468/arrow_keyboard_right_icon
+
+
+Storm
+    Image: CC BY 3.0 https://www.iconfinder.com/icons/390511/bolt_cloud_forecast_lightning_storm_weather_icon
+    Sound: CC0 1.0   http://www.freesound.org/people/RHumphries/sounds/2523/
+    
+Wind
+    Image: CC BY 3.0 https://www.iconfinder.com/icons/390480/eolo_forecast_weather_wind_icon
+    Sound: CC0 1.0   http://www.freesound.org/people/mario1298/sounds/181252/
+    
+Forest
+    Image: CC BY 2.5 https://www.iconfinder.com/icons/306204/forrst_icon
+    Sound: CC BY 3.0 http://www.freesound.org/people/inchadney/sounds/56611/
+    
+Sea
+    Image: CC BY 3.0 https://www.iconfinder.com/icons/216717/sea_icon
+    Sound: CC BY 3.0 http://www.freesound.org/people/Owl/sounds/195294/
+    
+Fire
+    Image: CC BY 3.0 https://www.iconfinder.com/icons/95127/fire_icon
+    Sound: CC BY 3.0 http://www.freesound.org/people/juskiddink/sounds/65795/
+    
+Coffee Shop
+    Image: CC BY 3.0 https://www.iconfinder.com/icons/111038/coffee_cup_drink_icon
+    Sound: CC0 1.0   http://www.freesound.org/people/Matias44/sounds/173920/
+    
+Night
+    Image: CC BY 3.0 https://www.iconfinder.com/icons/216526/night_weather_icon
+    Sound: CC0 1.0   http://www.freesound.org/people/martypinso/sounds/22604/
+
+Rain
+    Image: CC BY 3.0 https://www.iconfinder.com/icons/390503/cloud_day_forecast_rain_shine_sun_weather_wind_icon
+    Sound: CC BY 3.0 http://www.freesound.org/people/Kyster/sounds/122117/

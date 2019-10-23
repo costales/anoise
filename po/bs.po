@@ -1,0 +1,110 @@
+# Bosnian translation for anoise
+# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
+# This file is distributed under the same license as the anoise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: anoise\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-06-12 22:29+0200\n"
+"PO-Revision-Date: 2016-03-20 13:55+0000\n"
+"Last-Translator: Kenan Gutić <Unknown>\n"
+"Language-Team: Bosnian <bs@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-06-14 06:23+0000\n"
+"X-Generator: Launchpad (build 18404)\n"
+
+#: ../anoise/anoise.py:71
+msgid "Coffee Shop"
+msgstr "Kafić"
+
+#: ../anoise/anoise.py:71
+msgid "Fire"
+msgstr "Vatra"
+
+#: ../anoise/anoise.py:71
+msgid "Forest"
+msgstr "Šuma"
+
+#: ../anoise/anoise.py:71
+msgid "Night"
+msgstr "Noć"
+
+#: ../anoise/anoise.py:71
+msgid "Rain"
+msgstr "Kiša"
+
+#: ../anoise/anoise.py:71
+msgid "River"
+msgstr "Rijeka"
+
+#: ../anoise/anoise.py:71
+msgid "Sea"
+msgstr "More"
+
+#: ../anoise/anoise.py:71
+msgid "Storm"
+msgstr "Oluja"
+
+#: ../anoise/anoise.py:71
+msgid "Wind"
+msgstr "Vjetar"
+
+#: ../anoise.desktop.in.h:1
+msgid "Ambient Noise"
+msgstr "Ambijentalni zvukovi"
+
+#: ../anoise.desktop.in.h:2
+msgid "Play ambient noises"
+msgstr "Pusti ambijentalne zvukove"
+
+#: ../anoise/preferences.ui.h:1
+msgid "ANoise Preferences"
+msgstr "ANoise podešavanja"
+
+#: ../anoise/preferences.ui.h:2
+msgid "Stop in"
+msgstr "Zaustavi za"
+
+#: ../anoise/preferences.ui.h:3
+msgid "minutes"
+msgstr "minuta"
+
+#: ../anoise/preferences.ui.h:4
+msgid ""
+"Automatically shutdown PC after 60' running this command:\n"
+"sudo shutdown -P 60"
+msgstr ""
+"Automatski isključi PC poslije 60' koristeći ovu komandu:\n"
+"sudo shutdown -P 60"
+
+#: ../anoise/preferences.ui.h:6
+msgid "Timer:"
+msgstr "Tajmer:"
+
+#: ../anoise/preferences.ui.h:7
+msgid "Autostart with the system"
+msgstr "Pokreni sa sistemom"
+
+#: ../anoise/preferences.ui.h:8
+msgid "Startup:"
+msgstr "Pokretanje:"
+
+#: ../anoise/preferences.ui.h:9
+msgid "Get more online..."
+msgstr "Preuzmi više online..."
+
+#: ../anoise/preferences.ui.h:10
+msgid "Noises:"
+msgstr "Zvukovi:"
+
+#: ../anoise/preferences.ui.h:11
+msgid "Donate?"
+msgstr "Donirajte?"
+
+#: ../anoise/preferences.ui.h:12
+msgid "Thanks in advance!"
+msgstr "Hvala unaprijed!"

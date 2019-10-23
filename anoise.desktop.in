@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+_Name=Ambient Noise
+_Comment=Play ambient noises
+Exec=anoise
+Icon=anoise
+Terminal=false
+Type=Application
+Categories=AudioVideo;Player;
+Keywords=Player;Audio;
+X-Ubuntu-Gettext-Domain=anoise

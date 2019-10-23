@@ -1,0 +1,113 @@
+# Japanese translation for anoise
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the anoise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: anoise\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-06-12 22:29+0200\n"
+"PO-Revision-Date: 2015-04-20 19:44+0000\n"
+"Last-Translator: ub <xenolith0bytetestcomgreen@gmail.com>\n"
+"Language-Team: Japanese <ja@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-06-14 06:23+0000\n"
+"X-Generator: Launchpad (build 18404)\n"
+
+#: ../anoise/anoise.py:71
+msgid "Coffee Shop"
+msgstr "コーヒーショップ"
+
+#: ../anoise/anoise.py:71
+msgid "Fire"
+msgstr "炎"
+
+#: ../anoise/anoise.py:71
+msgid "Forest"
+msgstr "森"
+
+#: ../anoise/anoise.py:71
+msgid "Night"
+msgstr "夜"
+
+#: ../anoise/anoise.py:71
+msgid "Rain"
+msgstr "雨"
+
+#: ../anoise/anoise.py:71
+msgid "River"
+msgstr "川"
+
+#: ../anoise/anoise.py:71
+msgid "Sea"
+msgstr "海"
+
+#: ../anoise/anoise.py:71
+msgid "Storm"
+msgstr "嵐"
+
+#: ../anoise/anoise.py:71
+msgid "Wind"
+msgstr "風"
+
+#: ../anoise.desktop.in.h:1
+msgid "Ambient Noise"
+msgstr "環境音"
+
+#: ../anoise.desktop.in.h:2
+msgid "Play ambient noises"
+msgstr ""
+
+#: ../anoise/preferences.ui.h:1
+msgid "ANoise Preferences"
+msgstr "ANoise 設定"
+
+#: ../anoise/preferences.ui.h:2
+msgid "Stop in"
+msgstr "停止"
+
+#: ../anoise/preferences.ui.h:3
+msgid "minutes"
+msgstr "分後"
+
+#: ../anoise/preferences.ui.h:4
+msgid ""
+"Automatically shutdown PC after 60' running this command:\n"
+"sudo shutdown -P 60"
+msgstr ""
+"60分後にPCを自動的にシャットダウンするコマンド:\n"
+"sudo shutdown -P 60"
+
+#: ../anoise/preferences.ui.h:6
+msgid "Timer:"
+msgstr "タイマー:"
+
+#: ../anoise/preferences.ui.h:7
+msgid "Autostart with the system"
+msgstr "自動起動"
+
+#: ../anoise/preferences.ui.h:8
+msgid "Startup:"
+msgstr "起動:"
+
+#: ../anoise/preferences.ui.h:9
+msgid "Get more online..."
+msgstr ""
+
+#: ../anoise/preferences.ui.h:10
+msgid "Noises:"
+msgstr "音:"
+
+#: ../anoise/preferences.ui.h:11
+msgid "Donate?"
+msgstr "寄付する?"
+
+#: ../anoise/preferences.ui.h:12
+msgid "Thanks in advance!"
+msgstr "よろしくお願いします！"
+
+#~ msgid "Ambient Noise Player"
+#~ msgstr "環境音プレイヤー"

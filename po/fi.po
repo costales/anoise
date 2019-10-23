@@ -1,0 +1,113 @@
+# Finnish translation for anoise
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the anoise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: anoise\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-06-12 22:29+0200\n"
+"PO-Revision-Date: 2015-10-26 11:49+0000\n"
+"Last-Translator: Jiri Grönroos <Unknown>\n"
+"Language-Team: Finnish <fi@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-06-14 06:23+0000\n"
+"X-Generator: Launchpad (build 18404)\n"
+
+#: ../anoise/anoise.py:71
+msgid "Coffee Shop"
+msgstr "Kahvila"
+
+#: ../anoise/anoise.py:71
+msgid "Fire"
+msgstr "Nuotio"
+
+#: ../anoise/anoise.py:71
+msgid "Forest"
+msgstr "Metsä"
+
+#: ../anoise/anoise.py:71
+msgid "Night"
+msgstr "Yö"
+
+#: ../anoise/anoise.py:71
+msgid "Rain"
+msgstr "Sade"
+
+#: ../anoise/anoise.py:71
+msgid "River"
+msgstr "Joki"
+
+#: ../anoise/anoise.py:71
+msgid "Sea"
+msgstr "Meri"
+
+#: ../anoise/anoise.py:71
+msgid "Storm"
+msgstr "Myrsky"
+
+#: ../anoise/anoise.py:71
+msgid "Wind"
+msgstr "Tuuli"
+
+#: ../anoise.desktop.in.h:1
+msgid "Ambient Noise"
+msgstr "Taustaääni"
+
+#: ../anoise.desktop.in.h:2
+msgid "Play ambient noises"
+msgstr "Kuuntele ympäristön ääniä"
+
+#: ../anoise/preferences.ui.h:1
+msgid "ANoise Preferences"
+msgstr "ANoisen asetukset"
+
+#: ../anoise/preferences.ui.h:2
+msgid "Stop in"
+msgstr "Pysäytä"
+
+#: ../anoise/preferences.ui.h:3
+msgid "minutes"
+msgstr "minuutin kuluttua"
+
+#: ../anoise/preferences.ui.h:4
+msgid ""
+"Automatically shutdown PC after 60' running this command:\n"
+"sudo shutdown -P 60"
+msgstr ""
+"Sammuta järjestelmä automaattisesti 60 minuutin kuluttua komennolla:\n"
+"sudo shutdown -P 60"
+
+#: ../anoise/preferences.ui.h:6
+msgid "Timer:"
+msgstr "Ajastin:"
+
+#: ../anoise/preferences.ui.h:7
+msgid "Autostart with the system"
+msgstr "Käynnistä järjestelmän yhteydessä"
+
+#: ../anoise/preferences.ui.h:8
+msgid "Startup:"
+msgstr "Käynnistyminen:"
+
+#: ../anoise/preferences.ui.h:9
+msgid "Get more online..."
+msgstr "Hae lisää verkosta..."
+
+#: ../anoise/preferences.ui.h:10
+msgid "Noises:"
+msgstr "Äänet:"
+
+#: ../anoise/preferences.ui.h:11
+msgid "Donate?"
+msgstr "Lahjoitus?"
+
+#: ../anoise/preferences.ui.h:12
+msgid "Thanks in advance!"
+msgstr "Kiitos etukäteen!"
+
+#~ msgid "Ambient Noise Player"
+#~ msgstr "Taustaäänien soitin"

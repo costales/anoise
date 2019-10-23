@@ -1,0 +1,110 @@
+# Arabic translation for anoise
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the anoise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: anoise\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-06-12 22:29+0200\n"
+"PO-Revision-Date: 2015-08-29 15:38+0000\n"
+"Last-Translator: Ibrahim Saed <ibraheem5000@gmail.com>\n"
+"Language-Team: Arabic <ar@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-06-14 06:23+0000\n"
+"X-Generator: Launchpad (build 18404)\n"
+
+#: ../anoise/anoise.py:71
+msgid "Coffee Shop"
+msgstr "مقهى"
+
+#: ../anoise/anoise.py:71
+msgid "Fire"
+msgstr "نار"
+
+#: ../anoise/anoise.py:71
+msgid "Forest"
+msgstr "غابة"
+
+#: ../anoise/anoise.py:71
+msgid "Night"
+msgstr "ليل"
+
+#: ../anoise/anoise.py:71
+msgid "Rain"
+msgstr "مطر"
+
+#: ../anoise/anoise.py:71
+msgid "River"
+msgstr "نهر"
+
+#: ../anoise/anoise.py:71
+msgid "Sea"
+msgstr "بحر"
+
+#: ../anoise/anoise.py:71
+msgid "Storm"
+msgstr "عاصفة"
+
+#: ../anoise/anoise.py:71
+msgid "Wind"
+msgstr "رياح"
+
+#: ../anoise.desktop.in.h:1
+msgid "Ambient Noise"
+msgstr "الضوضاء المحيطة"
+
+#: ../anoise.desktop.in.h:2
+msgid "Play ambient noises"
+msgstr "تشغيل الضوضاء المحيطة"
+
+#: ../anoise/preferences.ui.h:1
+msgid "ANoise Preferences"
+msgstr "التفضيلات"
+
+#: ../anoise/preferences.ui.h:2
+msgid "Stop in"
+msgstr "إيقاف خلال"
+
+#: ../anoise/preferences.ui.h:3
+msgid "minutes"
+msgstr "دقائق"
+
+#: ../anoise/preferences.ui.h:4
+msgid ""
+"Automatically shutdown PC after 60' running this command:\n"
+"sudo shutdown -P 60"
+msgstr ""
+"إطفاء الحاسوب تلقائيا خلال 60 دقيقة من تشغيل هذا الأمر:\n"
+"sudo shutdown -P 60"
+
+#: ../anoise/preferences.ui.h:6
+msgid "Timer:"
+msgstr "المؤقت:"
+
+#: ../anoise/preferences.ui.h:7
+msgid "Autostart with the system"
+msgstr "تشغيل تلقائي مع بدء النظام"
+
+#: ../anoise/preferences.ui.h:8
+msgid "Startup:"
+msgstr "بدء التشغيل:"
+
+#: ../anoise/preferences.ui.h:9
+msgid "Get more online..."
+msgstr "احصل على المزيد من الإنترنت..."
+
+#: ../anoise/preferences.ui.h:10
+msgid "Noises:"
+msgstr "الضوضاء:"
+
+#: ../anoise/preferences.ui.h:11
+msgid "Donate?"
+msgstr "ترغب بالتبرع؟"
+
+#: ../anoise/preferences.ui.h:12
+msgid "Thanks in advance!"
+msgstr "شكرًا مقدمًا!"

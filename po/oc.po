@@ -1,0 +1,108 @@
+# Occitan (post 1500) translation for anoise
+# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
+# This file is distributed under the same license as the anoise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: anoise\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-06-12 22:29+0200\n"
+"PO-Revision-Date: 2016-04-06 19:48+0000\n"
+"Last-Translator: Cédric VALMARY (Tot en òc) <cvalmary@yahoo.fr>\n"
+"Language-Team: Occitan (post 1500) <oc@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-06-14 06:23+0000\n"
+"X-Generator: Launchpad (build 18404)\n"
+
+#: ../anoise/anoise.py:71
+msgid "Coffee Shop"
+msgstr "Cafè-restaurant"
+
+#: ../anoise/anoise.py:71
+msgid "Fire"
+msgstr "Fuòc"
+
+#: ../anoise/anoise.py:71
+msgid "Forest"
+msgstr "Bòsc"
+
+#: ../anoise/anoise.py:71
+msgid "Night"
+msgstr "Nuèch"
+
+#: ../anoise/anoise.py:71
+msgid "Rain"
+msgstr "Pluèja"
+
+#: ../anoise/anoise.py:71
+msgid "River"
+msgstr "Riu"
+
+#: ../anoise/anoise.py:71
+msgid "Sea"
+msgstr "Mar"
+
+#: ../anoise/anoise.py:71
+msgid "Storm"
+msgstr "Tempèsta"
+
+#: ../anoise/anoise.py:71
+msgid "Wind"
+msgstr "Vent"
+
+#: ../anoise.desktop.in.h:1
+msgid "Ambient Noise"
+msgstr "Bruch ambiant"
+
+#: ../anoise.desktop.in.h:2
+msgid "Play ambient noises"
+msgstr "Legir de bruches d'ambiança"
+
+#: ../anoise/preferences.ui.h:1
+msgid "ANoise Preferences"
+msgstr "Preferéncias d'ANoise"
+
+#: ../anoise/preferences.ui.h:2
+msgid "Stop in"
+msgstr "Arrestar dins"
+
+#: ../anoise/preferences.ui.h:3
+msgid "minutes"
+msgstr "minutas"
+
+#: ../anoise/preferences.ui.h:4
+msgid ""
+"Automatically shutdown PC after 60' running this command:\n"
+"sudo shutdown -P 60"
+msgstr ""
+
+#: ../anoise/preferences.ui.h:6
+msgid "Timer:"
+msgstr "Minutador :"
+
+#: ../anoise/preferences.ui.h:7
+msgid "Autostart with the system"
+msgstr ""
+
+#: ../anoise/preferences.ui.h:8
+msgid "Startup:"
+msgstr "Aviada :"
+
+#: ../anoise/preferences.ui.h:9
+msgid "Get more online..."
+msgstr ""
+
+#: ../anoise/preferences.ui.h:10
+msgid "Noises:"
+msgstr "Bruches :"
+
+#: ../anoise/preferences.ui.h:11
+msgid "Donate?"
+msgstr "Far un don ?"
+
+#: ../anoise/preferences.ui.h:12
+msgid "Thanks in advance!"
+msgstr "Mercé d'avança !"

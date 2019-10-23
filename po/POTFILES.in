@@ -1,0 +1,7 @@
+# intltool-update -p -g anoise
+# also done automatically with setup.py build or install
+[encoding: UTF-8]
+anoise/anoise.py
+anoise.desktop.in
+[type: gettext/glade]anoise/preferences.ui
+[type: gettext/glade]DELETE_extra_translations/anoise.ui

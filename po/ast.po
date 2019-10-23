@@ -1,0 +1,113 @@
+# Asturian translation for anoise
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the anoise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: anoise\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-06-12 22:29+0200\n"
+"PO-Revision-Date: 2017-06-13 20:52+0000\n"
+"Last-Translator: costales <Unknown>\n"
+"Language-Team: Asturian <ast@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-06-14 06:23+0000\n"
+"X-Generator: Launchpad (build 18404)\n"
+
+#: ../anoise/anoise.py:71
+msgid "Coffee Shop"
+msgstr "Cafetería"
+
+#: ../anoise/anoise.py:71
+msgid "Fire"
+msgstr "Fueu"
+
+#: ../anoise/anoise.py:71
+msgid "Forest"
+msgstr "Viesca"
+
+#: ../anoise/anoise.py:71
+msgid "Night"
+msgstr "Nueche"
+
+#: ../anoise/anoise.py:71
+msgid "Rain"
+msgstr "Lluvia"
+
+#: ../anoise/anoise.py:71
+msgid "River"
+msgstr "Ríu"
+
+#: ../anoise/anoise.py:71
+msgid "Sea"
+msgstr "Mar"
+
+#: ../anoise/anoise.py:71
+msgid "Storm"
+msgstr "Tormenta"
+
+#: ../anoise/anoise.py:71
+msgid "Wind"
+msgstr "Vientu"
+
+#: ../anoise.desktop.in.h:1
+msgid "Ambient Noise"
+msgstr "Soníu ambiental"
+
+#: ../anoise.desktop.in.h:2
+msgid "Play ambient noises"
+msgstr "Reproducir sonidos ambientales"
+
+#: ../anoise/preferences.ui.h:1
+msgid "ANoise Preferences"
+msgstr "Preferencies d'ANoise"
+
+#: ../anoise/preferences.ui.h:2
+msgid "Stop in"
+msgstr "Parar en"
+
+#: ../anoise/preferences.ui.h:3
+msgid "minutes"
+msgstr "minutos"
+
+#: ../anoise/preferences.ui.h:4
+msgid ""
+"Automatically shutdown PC after 60' running this command:\n"
+"sudo shutdown -P 60"
+msgstr ""
+"Apaga'l PC automáticamente tres 60' executando esti comandu:\n"
+"sudo shutdown -P 60"
+
+#: ../anoise/preferences.ui.h:6
+msgid "Timer:"
+msgstr "Temporizador:"
+
+#: ../anoise/preferences.ui.h:7
+msgid "Autostart with the system"
+msgstr "Entamar col sistema"
+
+#: ../anoise/preferences.ui.h:8
+msgid "Startup:"
+msgstr "Entamu:"
+
+#: ../anoise/preferences.ui.h:9
+msgid "Get more online..."
+msgstr "Algama más en llínia..."
+
+#: ../anoise/preferences.ui.h:10
+msgid "Noises:"
+msgstr "Soníos:"
+
+#: ../anoise/preferences.ui.h:11
+msgid "Donate?"
+msgstr "¿Donar?"
+
+#: ../anoise/preferences.ui.h:12
+msgid "Thanks in advance!"
+msgstr "¡Gracies por adelantao!"
+
+#~ msgid "Ambient Noise Player"
+#~ msgstr "Reproductor de soníu ambiental"

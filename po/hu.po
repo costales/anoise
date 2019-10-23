@@ -1,0 +1,113 @@
+# Hungarian translation for anoise
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the anoise package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: anoise\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-06-12 22:29+0200\n"
+"PO-Revision-Date: 2015-04-19 18:42+0000\n"
+"Last-Translator: Richard Somlói <ricsipontaz@gmail.com>\n"
+"Language-Team: Hungarian <hu@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-06-14 06:23+0000\n"
+"X-Generator: Launchpad (build 18404)\n"
+
+#: ../anoise/anoise.py:71
+msgid "Coffee Shop"
+msgstr "Kávézó"
+
+#: ../anoise/anoise.py:71
+msgid "Fire"
+msgstr "Tűz"
+
+#: ../anoise/anoise.py:71
+msgid "Forest"
+msgstr "Erdő"
+
+#: ../anoise/anoise.py:71
+msgid "Night"
+msgstr "Éjszaka"
+
+#: ../anoise/anoise.py:71
+msgid "Rain"
+msgstr "Eső"
+
+#: ../anoise/anoise.py:71
+msgid "River"
+msgstr "Folyó"
+
+#: ../anoise/anoise.py:71
+msgid "Sea"
+msgstr "Tenger"
+
+#: ../anoise/anoise.py:71
+msgid "Storm"
+msgstr "Vihar"
+
+#: ../anoise/anoise.py:71
+msgid "Wind"
+msgstr "Szél"
+
+#: ../anoise.desktop.in.h:1
+msgid "Ambient Noise"
+msgstr "Ambient Noise"
+
+#: ../anoise.desktop.in.h:2
+msgid "Play ambient noises"
+msgstr ""
+
+#: ../anoise/preferences.ui.h:1
+msgid "ANoise Preferences"
+msgstr "ANoise beállítások"
+
+#: ../anoise/preferences.ui.h:2
+msgid "Stop in"
+msgstr "Leállítás"
+
+#: ../anoise/preferences.ui.h:3
+msgid "minutes"
+msgstr "perc után"
+
+#: ../anoise/preferences.ui.h:4
+msgid ""
+"Automatically shutdown PC after 60' running this command:\n"
+"sudo shutdown -P 60"
+msgstr ""
+"Automatikus leállítja a számítógépét 60 perc múlva a következő paranccsal:\n"
+"sudo shutdown -P 60"
+
+#: ../anoise/preferences.ui.h:6
+msgid "Timer:"
+msgstr "Időzítő:"
+
+#: ../anoise/preferences.ui.h:7
+msgid "Autostart with the system"
+msgstr "Indulás a rendszerrel"
+
+#: ../anoise/preferences.ui.h:8
+msgid "Startup:"
+msgstr "Indulás:"
+
+#: ../anoise/preferences.ui.h:9
+msgid "Get more online..."
+msgstr ""
+
+#: ../anoise/preferences.ui.h:10
+msgid "Noises:"
+msgstr "Hangok:"
+
+#: ../anoise/preferences.ui.h:11
+msgid "Donate?"
+msgstr "Támogatás?"
+
+#: ../anoise/preferences.ui.h:12
+msgid "Thanks in advance!"
+msgstr "Előre is köszönöm!"
+
+#~ msgid "Ambient Noise Player"
+#~ msgstr "Ambient Noise Player"
