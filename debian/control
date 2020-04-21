@@ -10,7 +10,7 @@ Package: anoise
 Architecture: all
 Section: sound
 Priority: extra
-Depends: python-gst-1.0, gir1.2-gstreamer-1.0, gir1.2-gtk-3.0, gir1.2-webkit2-4.0, anoise-media
+Depends: python3-gst-1.0, gir1.2-gstreamer-1.0, gir1.2-gtk-3.0, gir1.2-webkit2-4.0, anoise-media
 Breaks: anoise (<< 0.0.9)
 Replaces: anoise (<< 0.0.9)
 Description: Ambient Noise Player
