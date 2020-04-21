@@ -1,9 +1,9 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: anoise
-Upstream-Contact: costales <costales.marcos@gmail.com>
+Upstream-Contact: costales <marcos.costales@gmail.com>
 
 Files: *.*
-Copyright: 2015-2019 costales <costales.marcos@gmail.com>
+Copyright: 2015-2020 costales <costales.marcos@gmail.com>
 License: GPL-3
   This program is free software; you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by

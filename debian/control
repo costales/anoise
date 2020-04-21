@@ -1,10 +1,10 @@
 Source: anoise
 Section: sound
 Priority: extra
-Standards-Version: 0.0.30
+Standards-Version: 0.0.31
 Maintainer: costales <costales.marcos@gmail.com>
 Build-Depends: python-distutils-extra, debhelper (>=7)
-Homepage: https://code.launchpad.net/anoise
+Homepage: https://costales.github.io/projects/anoise/
 
 Package: anoise
 Architecture: all

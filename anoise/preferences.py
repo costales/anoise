@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-# ANoise 0.0.30 (Ambient Noise)
-# Copyright (C) 2015-2019 Marcos Alvarez Costales https://launchpad.net/~costales
+# ANoise 0.0.31 (Ambient Noise) https://costales.github.io/projects/anoise/
+# Copyright (C) 2015-2020 Marcos Alvarez Costales https://costales.github.io/
 #
 # ANoise is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
