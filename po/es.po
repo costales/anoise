@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: anoise\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2017-06-12 22:29+0200\n"
-"PO-Revision-Date: 2015-05-13 07:05+0000\n"
-"Last-Translator: costales <Unknown>\n"
+"PO-Revision-Date: 2017-06-18 07:09+0000\n"
+"Last-Translator: Paco Molinero <paco@byasl.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-06-14 06:23+0000\n"
-"X-Generator: Launchpad (build 18404)\n"
+"X-Launchpad-Export-Date: 2020-04-21 19:40+0000\n"
+"X-Generator: Launchpad (build aad6b57d58e2f621954298e262c1cc904860f5d2)\n"
 
 #: ../anoise/anoise.py:71
 msgid "Coffee Shop"
@@ -59,7 +59,7 @@ msgstr "Sonido ambiental"
 
 #: ../anoise.desktop.in.h:2
 msgid "Play ambient noises"
-msgstr "Reproducir sonidos ambiente"
+msgstr "Reproducir sonido ambiental"
 
 #: ../anoise/preferences.ui.h:1
 msgid "ANoise Preferences"
