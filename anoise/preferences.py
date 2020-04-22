@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# ANoise 0.0.31 (Ambient Noise) https://costales.github.io/projects/anoise/
+# ANoise 0.0.32 (Ambient Noise) https://costales.github.io/projects/anoise/
 # Copyright (C) 2015-2020 Marcos Alvarez Costales https://costales.github.io/
 #
 # ANoise is free software; you can redistribute it and/or modify
@@ -110,7 +110,7 @@ class Preferences:
         settings = web_content.get_settings()
         settings.set_property('enable-default-context-menu', False)
         web_content.set_settings(settings)
-        web_content.open('http://anoise.tuxfamily.org/noises')
+        web_content.open('https://costales.github.io/projects/anoise/')
         web_content.connect('navigation-requested', self._on_navigation_requested)
         self.web.add(web_content)
         self.web.show_all()

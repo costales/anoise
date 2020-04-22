@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# ANoise 0.0.31 - https://costales.github.io/projects/anoise/
+# ANoise 0.0.32 - https://costales.github.io/projects/anoise/
 # Copyright (C) 2015-2020 Marcos Alvarez Costales https://costales.github.io
 #
 # ANoise is free software; you can redistribute it and/or modify
@@ -29,7 +29,7 @@ data = [ ('/usr/share/anoise',                      glob.glob('anoise/*')),
 # Setup stage
 DistUtilsExtra.auto.setup(
     name         = "anoise",
-    version      = "0.0.31",
+    version      = "0.0.32",
     description  = "Ambient Noise",
     author       = "Marcos Alvarez Costales https://costales.github.io/",
     author_email = "marcos.costales@gmail.com",
