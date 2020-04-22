@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# ANoise 0.0.32 (Ambient Noise) https://costales.github.io/projects/anoise/
+# ANoise 0.0.33 (Ambient Noise) https://costales.github.io/projects/anoise/
 # Copyright (C) 2015-2020 Marcos Alvarez Costales https://costales.github.io/
 #
 # ANoise is free software; you can redistribute it and/or modify

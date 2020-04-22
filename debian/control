@@ -1,7 +1,7 @@
 Source: anoise
 Section: sound
 Priority: extra
-Standards-Version: 0.0.32
+Standards-Version: 0.0.33
 Maintainer: costales <costales.marcos@gmail.com>
 Build-Depends: python-distutils-extra, debhelper (>=7)
 Homepage: https://costales.github.io/projects/anoise/
