@@ -29,7 +29,7 @@ data = [ ('/usr/share/anoise',                      glob.glob('anoise/*')),
 # Setup stage
 DistUtilsExtra.auto.setup(
     name         = "anoise",
-    version      = "0.0.35",
+    version      = "0.0.36",
     description  = "Ambient Noise",
     author       = "Marcos Alvarez Costales https://costales.github.io/",
     author_email = "marcos.costales@gmail.com",
