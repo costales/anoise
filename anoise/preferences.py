@@ -19,7 +19,7 @@
 import gi, os, shutil, webbrowser, subprocess
 from datetime import datetime, timedelta
 gi.require_version('Gtk', '3.0')
-gi.require_version('WebKit2', '4.0')
+gi.require_version('WebKit2', '4.1')
 from gi.repository import Gtk, WebKit2
 # i18n
 import gettext
